@@ -11,6 +11,8 @@ namespace discussionForum.Controllers
         public ActionResult Index()
         {
             // hello okay HEllo hello hello
+
+            // hello this is a new line
             return View();
         }
 
